@@ -1,18 +1,15 @@
 <div align="center">
 
-  <!-- Responsive Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:1E1B4B&height=180&section=header&text=AR-JAY%20F.%20LLANERA&fontSize=42&fontColor=38BDF8&fontAlignY=45&desc=IT%20INSTRUCTOR%20%7C%20MOBILE%20%26amp%3B%20WEB%20DEVELOPER&descFontSize=15&descColor=94A3B8&descAlignY=70&animation=none" width="100%" alt="AR-JAY F. LLANERA | IT Instructor & Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:1E1B4B&height=210&section=header&text=AR-JAY%20F.%20LLANERA&fontSize=42&fontColor=38BDF8&fontAlignY=36&desc=IT%20INSTRUCTOR%20%7C%20MOBILE%20%26amp%3B%20WEB%20DEVELOPER&descFontSize=15&descColor=94A3B8&descAlignY=58&animation=none" width="100%" alt="AR-JAY F. LLANERA | IT Instructor & Developer" />
 
   <br/>
 
-  <!-- Mobile-Optimized Dynamic Typing Line (Scales cleanly on 360px+ displays) -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=480&lines=%3E_IT+Instructor+%7C+Mobile+%26+Web+Dev;%3E_Architecting+high-performance+solutions;%3E_Native+Android+%26+Enterprise+Systems;%3E_Open+for+Freelance+%26+Consulting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Ar-jay+F.+Llanera;%3E_IT+Instructor+%7C+Mobile+%26+Web+Dev;%3E_Architecting+high-performance+solutions;%3E_Native+Android+%26+Enterprise+Systems;%3E_Open+for+Freelance+%26+Consulting" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Responsive Action Badges & Visitor Counter -->
   <a href="https://www.linkedin.com/in/llanerarjay/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
@@ -33,14 +30,21 @@
 
 <div align="center">
 
-```bash
-$ npx code-rj45
-# [✔] Title    : IT Instructor | Mobile & Web Dev
-# [✔] Status   : Available for Freelance & Contracts
-# [✔] Core     : Native Android & Enterprise Web
-# [✔] Timezone : UTC+8 (Manila) · Remote Worldwide
-# [✔] Standard : Clean Architecture · Documented
-```
+  <table style="border-collapse: collapse; border: 1px solid #1E293B; border-radius: 8px;">
+    <tr>
+      <td style="background-color: #161B22; padding: 6px 14px; border-bottom: 1px solid #1E293B;">
+        <span style="color: #EF4444;">●</span>&nbsp;<span style="color: #F59E0B;">●</span>&nbsp;<span style="color: #10B981;">●</span>
+        &nbsp;&nbsp;<code style="font-size: 11px; color: #64748B;">bash - code-rj45@portfolio:~</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #0D1117; padding: 10px 14px;" align="center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=14&duration=1600&pause=1200&color=38BDF8&background=0D1117&multiline=true&repeat=true&width=480&height=150&lines=%24+npx+code-rj45;%23+%5B%E2%9C%94%5D+Title++++%3A+IT+Instructor+%7C+Mobile+%26+Web+Dev;%23+%5B%E2%9C%94%5D+Status+++%3A+Available+for+Freelance+%26+Contracts;%23+%5B%E2%9C%94%5D+Core+++++%3A+Native+Android+%26+Enterprise+Web;%23+%5B%E2%9C%94%5D+Timezone+%3A+UTC%2B8+(Manila)+%C2%B7+Remote+Worldwide;%23+%5B%E2%9C%94%5D+Standard+%3A+Clean+Architecture+%C2%B7+Documented" alt="Animated CLI Terminal" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -384,7 +388,6 @@ Got a project idea, need a custom Android application, or require backend automa
 
 <br/>
 
-<!-- Futuristic Wave Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:0B0F19&height=100&section=footer" width="100%" alt="Footer" />
 </div>
