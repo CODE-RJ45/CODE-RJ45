@@ -48,25 +48,60 @@ $ npx code-rj45
 
 ### `// 01. BENTO ARCHITECTURE SNAPSHOT`
 
-```
-┌── 🎓 ACADEMIC LEADERSHIP ─────────────────────┐
-│ • Higher Education IT Instructor & Mentor     │
-│ • Mentoring next-gen software developers      │
-│ • Bridging CS theory with commercial scale    │
-├── 📱 MOBILE ARCHITECTURE ─────────────────────┤
-│ • Native Android (Kotlin / Java) Engineering  │
-│ • Low memory footprint & offline-first UX     │
-│ • Local SQLite caching & background sync      │
-├── ⚡ AUTOMATION ENGINES ──────────────────────┤
-│ • Algorithmic timetable & scheduling systems  │
-│ • Real-time event scoring & audit engine      │
-│ • 0% conflict rate on complex constraint runs │
-├── 🛡️ PRODUCTION RIGOR ───────────────────────┤
-│ • Clean Architecture & SOLID principles       │
-│ • 100% documented codebase handover           │
-│ • High-integrity relational database modeling │
-└───────────────────────────────────────────────┘
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="right">
+        <img src="https://img.shields.io/badge/HIGHER_ED-IT_INSTRUCTOR-0D1117?style=flat-square&color=38BDF8" alt="Higher Ed" />
+      </div>
+      <h3 align="left">🎓 Academic Leadership</h3>
+      <p><b>University IT Instructor &amp; Software Mentor</b></p>
+      <ul>
+        <li>Mentoring next-generation software engineers and developers</li>
+        <li>Bridging foundational CS theory with commercial-grade software</li>
+        <li>Pedagogical clarity in system architecture &amp; client communication</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="right">
+        <img src="https://img.shields.io/badge/MOBILE-NATIVE_ANDROID-0D1117?style=flat-square&color=34D399" alt="Android" />
+      </div>
+      <h3 align="left">📱 Mobile Architecture</h3>
+      <p><b>Kotlin &amp; Java Native Application Engineering</b></p>
+      <ul>
+        <li>Low memory footprint optimization &amp; fluid 60fps gesture UX</li>
+        <li>Offline-first architecture with local SQLite and background sync</li>
+        <li>Native hardware integrations: cameras, scanners &amp; sensor APIs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="right">
+        <img src="https://img.shields.io/badge/SYSTEMS-ALGORITHMIC-0D1117?style=flat-square&color=818CF8" alt="Automation" />
+      </div>
+      <h3 align="left">⚡ Automation Engines</h3>
+      <p><b>Algorithmic Resource &amp; Event Optimization</b></p>
+      <ul>
+        <li>Complex timetable schedulers with 0% room conflict rates</li>
+        <li>Real-time event scoring, tabulation &amp; audited leaderboards</li>
+        <li>Automated paperless reporting &amp; compliance evaluation workflows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="right">
+        <img src="https://img.shields.io/badge/STANDARDS-CLEAN_ARCH-0D1117?style=flat-square&color=FBBF24" alt="Clean Arch" />
+      </div>
+      <h3 align="left">🛡️ Production Rigor</h3>
+      <p><b>Enterprise Software Engineering Standards</b></p>
+      <ul>
+        <li>Strict adherence to Clean Architecture, SOLID &amp; modular separation</li>
+        <li>100% documented codebase handover for effortless team scaling</li>
+        <li>High-integrity relational schema design (PostgreSQL, MySQL, SQLite)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -233,19 +268,54 @@ Institutional platforms architected, engineered, and actively deployed in univer
 
 A structured four-phase delivery framework ensuring transparency, predictability, and high code quality from day one:
 
-```
-┌── [01. DISCOVERY] ────────────────────────────┐
-│ • Scope, Technical Specs & Feasibility        │
-│ • Milestone Definition & Timeline Alignment   │
-├── [02. ARCHITECTURE & PROTOTYPE] ─────────────┤
-│ • Relational Schema & Normalization           │
-│ • UI/UX Wireframe Validation & API Contracts  │
-├── [03. SPRINT BUILD & RIGOROUS QA] ───────────┤
-│ • Modular Clean Architecture (SOLID)          │
-│ • Unit & Integration Testing + Bi-Weekly Demos│
-└── [04. PRODUCTION DEPLOYMENT & HANDOVER] ─────┘
-  Zero-downtime release & 100% documentation handover
-```
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/PHASE_01-DISCOVERY-38BDF8?style=for-the-badge&labelColor=0D1117&color=38BDF8" alt="Phase 01" />
+      <br/><br/>
+      <b>Specs &amp; Feasibility</b>
+      <p align="left">
+        • Requirements analysis<br/>
+        • Feasibility &amp; scope study<br/>
+        • Milestone &amp; budget roadmap
+      </p>
+      <code>DELIVERABLE: SPEC</code>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/PHASE_02-ARCHITECTURE-818CF8?style=for-the-badge&labelColor=0D1117&color=818CF8" alt="Phase 02" />
+      <br/><br/>
+      <b>Schema &amp; Prototype</b>
+      <p align="left">
+        • Relational schema design<br/>
+        • API contract specifications<br/>
+        • UI/UX wireframe alignment
+      </p>
+      <code>DELIVERABLE: BLUEPRINT</code>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/PHASE_03-SPRINT_BUILD-34D399?style=for-the-badge&labelColor=0D1117&color=34D399" alt="Phase 03" />
+      <br/><br/>
+      <b>Clean Code &amp; Testing</b>
+      <p align="left">
+        • Modular Clean Architecture<br/>
+        • Unit &amp; integration testing<br/>
+        • Bi-weekly progress demos
+      </p>
+      <code>DELIVERABLE: TESTED MVP</code>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/PHASE_04-HANDOVER-FBBF24?style=for-the-badge&labelColor=0D1117&color=FBBF24" alt="Phase 04" />
+      <br/><br/>
+      <b>Release &amp; Knowledge</b>
+      <p align="left">
+        • Zero-downtime deployment<br/>
+        • 100% documentation handover<br/>
+        • Environment &amp; code transfer
+      </p>
+      <code>DELIVERABLE: LIVE RELEASE</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
