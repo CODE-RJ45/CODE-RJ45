@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Futuristic Minimalist Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:1E1B4B&height=180&section=header&text=AR-JAY%20F.%20LLANERA&fontSize=42&fontColor=38BDF8&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20MOBILE%20%26%20SYSTEMS%20ARCHITECT&descFontSize=15&descColor=94A3B8&descAlignY=70" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:1E1B4B&height=180&section=header&text=AR-JAY%20F.%20LLANERA&fontSize=42&fontColor=38BDF8&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20MOBILE%20%2B%20SYSTEMS%20ARCHITECT&descFontSize=15&descColor=94A3B8&descAlignY=70" width="100%" alt="Header" />
 
   <br/>
 
@@ -12,7 +12,7 @@
 
   <br/><br/>
 
-  <!-- Sleek Futuristic Action Badges -->
+  <!-- Sleek Futuristic Action Badges & Visitor Counter -->
   <a href="https://www.linkedin.com/in/llanerarjay/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
@@ -24,6 +24,8 @@
   <a href="https://github.com/CODE-RJ45">
     <img src="https://img.shields.io/badge/GITHUB-CODE_RJ45-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=CODE-RJ45&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -32,10 +34,12 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  STATUS: OPEN TO FREELANCE PROJECTS & SYSTEM CONSULTING  │
-│  DELIVERABLES: Native Android · Enterprise Web · Automation │
-└──────────────────────────────────────────────────────────┘
+┌── SYSTEM STATUS & TELEMETRY ────────────────────────────────────────────────┐
+│ • Operational Status : AVAILABLE FOR FREELANCE & SYSTEM CONSULTING          │
+│ • Core Deliverables  : Native Android · Custom Web Backends · Automations  │
+│ • Working Timezone   : UTC+8 (Manila / Asia-Pacific) • Remote Worldwide     │
+│ • Architecture Focus : Clean Architecture · Modularity · 100% Documented    │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -131,16 +135,39 @@ A structured four-phase delivery framework ensuring transparency, predictability
 
 ---
 
-### `// 06. CODE FREQUENCY & METRICS`
+### `// 06. CODE FREQUENCY & TELEMETRY`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CODE-RJ45&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-RJ45&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=CODE-RJ45&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="155" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CODE-RJ45&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=CODE-RJ45&theme=nightowl&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="155" alt="GitHub Streak" />
 </div>
 
 ---
 
-### `// 07. INITIATE A PROJECT`
+### `// 07. CLIENT FAQ`
+
+<details>
+<summary><b>[+] Frequently Asked Questions & Collaboration Terms</b></summary>
+<br/>
+
+* **Q: Can you work with existing teams or inherited codebases?**  
+  *A:* Yes. I regularly audit existing repositories, identify technical bottlenecks, and implement clean modular updates that integrate smoothly with your existing stack.
+
+* **Q: What is your typical development timeline?**  
+  *A:* Focused MVPs and standalone modules typically ship in 2–4 weeks; comprehensive enterprise systems in 6–10 weeks with milestone checkpoints.
+
+* **Q: Do you sign Non-Disclosure Agreements (NDAs)?**  
+  *A:* Yes, 100%. All client data, codebases, and intellectual property remain strictly confidential.
+
+</details>
+
+---
+
+### `// 08. INITIATE A PROJECT`
 
 Got a project idea, need a custom Android application, or require backend automation?
 
@@ -155,4 +182,11 @@ Got a project idea, need a custom Android application, or require backend automa
   </a>
   <br/><br/>
   <sub><i>Available for contract engagements, freelance projects & system consultancy.</i></sub>
+</div>
+
+<br/>
+
+<!-- Futuristic Wave Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:0B0F19&height=100&section=footer" width="100%" alt="Footer" />
 </div>
