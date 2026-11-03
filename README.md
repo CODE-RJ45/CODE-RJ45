@@ -338,12 +338,30 @@ A structured four-phase delivery framework ensuring transparency, predictability
 
 ---
 
-### `// 08. CODE FREQUENCY & TELEMETRY`
+### `// 08. CODE FREQUENCY & TELEMETRY (2026)`
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=CODE-RJ45&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
+
+  <table style="border-collapse: collapse; border: 1px solid #1E293B; border-radius: 8px;">
+    <tr>
+      <td style="background-color: #161B22; padding: 6px 14px; border-bottom: 1px solid #1E293B;">
+        <span style="color: #10B981;">●</span>&nbsp;<code style="font-size: 11px; color: #64748B;">telemetry-daemon - live-feed: active</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #0D1117; padding: 8px 14px;" align="center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=13&duration=2000&pause=1000&color=38BDF8&background=0D1117&center=true&vCenter=true&width=480&height=35&lines=%3E_Telemetry+Online%3A+2026+Active+Cadence;%3E_Live+Deployments%3A+4+Enterprise+Portals;%3E_Lead+Architect%3A+CBSUA+Institutional+Systems;%3E_Commits+%26+Activity%3A+Continuous+Delivery" alt="Telemetry Stream" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-stats-extended.vercel.app/api?username=CODE-RJ45&custom_title=2026%20Code%20Metrics&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="150" alt="2026 GitHub Stats" />
   <br/><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CODE-RJ45&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CODE-RJ45&layout=compact&custom_title=2026%20Language%20Distribution&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" alt="2026 Top Languages" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=CODE-RJ45&theme=nightowl&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="150" alt="GitHub Streak" />
 </div>
